@@ -25,7 +25,7 @@ A simple two-player dice game built with HTML, CSS, and JavaScript. The goal of 
 
 ## Demo
 
-[Live Demo](#) - Click to try the game!
+[Live Demo](https://dice-game9.netlify.app/) - Click to try the game!
 
 ## Features
 
